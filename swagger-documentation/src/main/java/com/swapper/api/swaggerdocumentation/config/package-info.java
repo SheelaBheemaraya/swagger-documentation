@@ -1,0 +1,1 @@
+package com.swapper.api.swaggerdocumentation.config;
